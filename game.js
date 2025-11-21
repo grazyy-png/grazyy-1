@@ -10,9 +10,9 @@ loadSprite("player", "https://kaboomjs.com/sprites/bean.png");
 
 // Criar o mapa
 addLevel([
-" ",
-" ",
-" @ ",
+"                          ",
+"                          ",
+"         @                ",
 "==========================",
 ], {
 width: 32,
