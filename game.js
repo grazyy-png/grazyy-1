@@ -6,7 +6,7 @@ background: [135, 206, 235], // céu azul
 gravity(1200);
 
 // Sprite do jogador
-loadSprite("player", "https://i.imgur.com/Wb1qfhK.png");
+loadSprite("player", "https://kaboomjs.com/sprites/bean.png");
 
 // Criar o mapa
 addLevel([
